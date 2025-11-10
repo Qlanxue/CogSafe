@@ -1,0 +1,80 @@
+{
+    "Malicious Use": [
+        "Fraud or Deceptive Action - Fake Online Content",
+        "Security Threats - Weapon Generation and Transportation",
+        "Fraud or Deceptive Action - Spam",
+        "Influence Operations - Illegitimate Surveillance",
+        "Security Threats - Management or Operation of Critical Infrastructure",
+        "Defamation - Defamation Someone",
+        "Influence Operations - Campaign Materials",
+        "Illegal Activities - Drug-related Crimes",
+        "Security Threats - Biological and Chemical Harms",
+        "Fraud or Deceptive Action - Academic Dishonesty",
+        "Influence Operations - Manipulation of Public Opinion",
+        "Fraud or Deceptive Action - Disinformation",
+        "Illegal Activities - Theft",
+        "Illegal Activities - Environmental Crimes",
+        "Security Threats - Malware Generation",
+        "Fraud or Deceptive Action - Financial Fraud",
+        "Fraud or Deceptive Action - Pseudo-pharmaceuticals",
+        "Defamation - Group Defamation",
+        "Illegal Activities - Illegal Law Advice",
+        "Fraud or Deceptive Action - Fake Review Generation",
+        "Illegal Activities - Violent Crimes",
+        "Illegal Activities - Traffic and Driving Offenses",
+        "Security Threats - Cyber Attack",
+        "Illegal Activities - Financial Crimes",
+        "Fraud or Deceptive Action - Scams",
+        "Illegal Activities - Sexual Offenses"
+    ],
+    "Human Autonomy & Integrity": [
+        "Persuasion and Manipulation - Self-Harm",
+        "Violation of Personal Property - Copyright Infringement",
+        "Persuasion and Manipulation - Psychological Manipulation",
+        "Violation of Personal Property - Forge Identity",
+        "Violation of Personal Property - Plagiarism",
+        "Violation of Personal Property - Mimicking Writing Style"
+    ],
+    "Representation & Toxicity": [
+        "Toxic Content - Enjoying someone else's Pain",
+        "Unfair Representation - Disability Stereotyping",
+        "Unfair Representation - Racial and Ethnic Stereotyping",
+        "Toxic Content - Harass, Threaten, or Bully An Individual",
+        "Adult Content - Erotic Chat",
+        "Unfair Representation - Religious Stereotyping",
+        "Unfair Representation - Location Stereotyping",
+        "Adult Content - Pornography",
+        "Unfair Representation - Age Stereotyping",
+        "Unfair Representation - Gender Stereotyping",
+        "Toxic Content - Terrorism",
+        "Toxic Content - Child Abuse",
+        "Toxic Content - Violent Content",
+        "Toxic Content - Hate Speech",
+        "Toxic Content - Insult",
+        "Adult Content - Sexual Activity"
+    ],
+    "Information & Safety": [
+        "Dissemination of Dangerous Information - Financial Data Leaks",
+        "Dissemination of Dangerous Information - Social Media Rumors",
+        "Privacy Infringement - Inferring Personal Information",
+        "Dissemination of Dangerous Information - Fake News",
+        "Privacy Infringement - Leaking Private Information",
+        "Dissemination of Dangerous Information - Government Secrets"
+    ],
+    "Misinformation Harms": [
+        "Erosion of Trust in Public Information - Law Advice",
+        "Erosion of Trust in Public Information - Illegal Drugs and Regulated-Controlled Substances",
+        "Propagating Misconceptions-False Beliefs - Science Denialism",
+        "Erosion of Trust in Public Information - Medical Advice",
+        "Propagating Misconceptions-False Beliefs - Radicalization",
+        "Propagating Misconceptions-False Beliefs - Historical Revisionism",
+        "Erosion of Trust in Public Information - Common Sense"
+    ],
+    "Socioeconomic Harms": [
+        "Risky Financial Practices - Paypal Lending",
+        "Risky Financial Practices - Multi-level Marketing",
+        "Risky Financial Practices - Gambling",
+        "Trade and Compliance - Labor Issues",
+        "Trade and Compliance - Trade Affairs"
+    ]
+}
